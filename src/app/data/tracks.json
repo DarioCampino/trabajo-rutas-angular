@@ -1,0 +1,40 @@
+{
+    "data":[
+        {
+            "id":1,
+            "name": "Battery",
+            "album": "Master of Puppets",
+            "cover": "http://jenesaispop.com/wp-content/uploads/guette_onelove.jpg",
+            "artist" :{
+                "name": "David Guetta",
+                "nickname":"DAvid Guetta",
+                "nationality":"FR"
+            },
+
+            "duracion":{
+                "start":0,
+                "end":333
+            },
+
+            "url":"http://localhost:3000/track.mp3"
+        },
+        {
+            "id":1,
+            "name": "Battery",
+            "album": "Master of Puppets",
+            "cover": "https://jenesaispop.com/wp-content/uploads/2020/03/caribou-bbk.jpg",
+            "artist" :{
+                "name": "David Guetta",
+                "nickname":"DAvid Guetta",
+                "nationality":"FR"
+            },
+
+            "duracion":{
+                "start":0,
+                "end":333
+            },
+
+            "url":"http://localhost:3000/track.mp3"
+        }
+    ]
+}
